@@ -1,8 +1,6 @@
 # 학사 정보 시스템 
 ![image](https://user-images.githubusercontent.com/115364621/235833010-74d3ae6e-6cc8-4200-a604-e8000b830b9c.png)
 
-------------
-
 팀 구성 : Backend 4인  
 진행기간 : 22.10.31 ~ 22.11.17
 주요내용 :
